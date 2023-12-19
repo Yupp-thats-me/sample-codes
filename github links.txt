@@ -1,0 +1,11 @@
+https://github.com/Digressive/Windows-Server-Status-Monitor/blob/master/WinServ-Status.ps1
+
+https://github.com/Jinjinov/Hardware.Info
+
+https://github.com/csiebler/storagegrid-monitoring
+
+https://github.com/zelon88/Storage_Monitor
+
+https://github.com/Electron-x/ResInfo
+
+https://github.com/renatogroffe/ASP.NET-Core-2.2_WebApp_Monitoramento
